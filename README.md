@@ -1,2 +1,1 @@
-# blogsource
-My Blog Source
+# blog
