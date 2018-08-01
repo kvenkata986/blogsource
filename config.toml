@@ -89,8 +89,8 @@ canonifyURLs = true
   # These are optional params related to the sidebar. They are recommended, but not
   # required for proper functionality. HTML is supported within the params.
 [params.intro]
-  header    = "Jerome's Blog"
-  paragraph = "Building my edge cloud using Raspberry PI, keep learning from the opensource community"
+  header    = "Krishna's Blog"
+  paragraph = "Preparing for Meetup"
   about     = "About the author"
 
   # This appears at the top of the sidebar above params.intro.header.
