@@ -1,6 +1,6 @@
-and = "https://teja.avrsk.github.io/"
+and = "https://github.com/kvenkata986"
 languageCode = "en-us"
-title = "Krishna 's Blog"
+title = "Krishna Venkata's Blog"
 theme = "hugo-future-imperfect"
 preserveTaxonomyNames = true
 paginate = 10
@@ -14,7 +14,7 @@ canonifyURLs = true
 
 [params]
   # Sets the meta tag description
-  description = "Krishna's Blog" # Description of your site
+  description = "Krishna Venkata's Blog" # Description of your site
   # Sets the navbarTitle that appears in the top left of the navigation bar
   navbarTitle          = "meetup preparation"
   # Sets where "View More Posts" links
@@ -89,8 +89,8 @@ canonifyURLs = true
   # These are optional params related to the sidebar. They are recommended, but not
   # required for proper functionality. HTML is supported within the params.
 [params.intro]
-  header    = "Krishna's Blog"
-  paragraph = "Preparing for Meetup"
+  header    = "Krishna Venkata"
+  paragraph = "Automate for Efficiency"
   about     = "About the author"
 
   # This appears at the top of the sidebar above params.intro.header.
@@ -151,7 +151,7 @@ canonifyURLs = true
 # and socialAppearAtBottom.
 [social]
   # Coding Communities
-  github           = "teja.avrsk"
+  github           = "kvenkata986"
   # gitlab           = ""
   # stackoverflow    = "" # User Number
   # bitbucket        = ""
